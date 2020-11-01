@@ -98,5 +98,5 @@ Should insert the client at the right priority and reorder the priority in clien
 
 ## Additional Resources
 Node JS: https://nodejs.org/en/
-Express: https://expressjs.com
+Express: https://expressjs.com 
 better-sqlite3: https://github.com/JoshuaWise/better-sqlite3/blob/HEAD/docs/api.md
